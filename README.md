@@ -1,6 +1,7 @@
 In this project you will find a Bookshelf React demo that  **includes:**
 
 - [x] Books route
+- [x] Single book section
 - [x] Grid design as much as possible(CSS only)
 - [x] Fetching and formatting data
 - [x] Custom hooks
