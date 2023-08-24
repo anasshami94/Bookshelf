@@ -1,16 +1,11 @@
 In this project you will find a Bookshelf React demo that  **includes:**
 
-[*] Books route
-
-[*] Grid design as much as possible(CSS only)
-
-[*] Fetching and formatting data
-
-[*] Custom hooks
-
-[*] Responsive design
-
-[*] Use JSON-Server to make a fake REST API.
+[x] Books route
+[x] Grid design as much as possible(CSS only)
+[x] Fetching and formatting data
+[x] Custom hooks
+[x] Responsive design
+[x] Use JSON-Server to make a fake REST API.
 
 **How to run the project:**
 
